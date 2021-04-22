@@ -1,6 +1,6 @@
 # todo-api
-implement API for TODO list
-use `npm start` to run
+implement API for TODO list  
+use `npm install` and `npm start` to run
 
 # API Endpoints
 * [User registration](#user-reg)
