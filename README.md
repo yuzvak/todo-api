@@ -83,7 +83,7 @@ Authorization: Bearer <token>
   * Does not require additional parameters
   
   `PUT` /api/todo - update task status  
-  * Need `id (Number) and task (String)` body parameter
+  * Need `id (Number)` body parameter
   
   `DELETE` /api/todo - delete task
   * Need `id (Number)` query parameter
