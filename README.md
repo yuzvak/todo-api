@@ -70,7 +70,7 @@ use `npm start` to run
 <a name="task"></a>
 **Task management**
 ----
-All methods need an authorization token in the header
+All methods need an authorization token in the header (from [User authorization](#user-auth))
 ```javascript
 Authorization: Bearer <token>
 ```
